@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LearningApps Game</title>
+  </head>
+  <body style="margin:0;padding:0;">
+    <iframe src="https://learningapps.org/watch?app=39190585"
+            style="border:0;width:100%;height:100vh;"
+            allowfullscreen>
+    </iframe>
+  </body>
+</html>
